@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=tajwarrahman.com&style=for-the-badge&url=https%3A%2F%2Ftajwarrahman.com)](https://tajwarrahman.com)
 
-## I'm a Freshman at City College of New York!
+## I'm a Sophomore at City College of New York!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other programmers
@@ -44,4 +44,4 @@
 <br />
 
 [website]: https://www.tajwarrahman.com/
-[linkedin]: https://www.linkedin.com/in/tajwar-rahman-aa30851a3/
+[linkedin]: https://www.linkedin.com/in/tajwarrahman/
